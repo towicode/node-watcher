@@ -3,8 +3,7 @@
 Run user defined commands on file changes.
 
 ## Installation
-`npm install node-watch-changes`  
-`npm install -g node-watch-changes`
+`npm install -g github:towicode/node-watcher`
 
 ## Usage
 Create a configuration file in the fashion of the following example.
